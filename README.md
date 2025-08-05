@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/pardhu" target="blank"><img src="https://img.shields.io/twitter/follow/pardhu?logo=twitter&style=for-the-badge" alt="pardhu" /></a> </p>
 
-- 🌱 I’m currently learning **C++, Python, SQL, etc**
+- 🌱 I’m currently learning **C++, Python with libraries Numpy and Pandas etc**
 - 📫 How to reach me: **pardhuchinnam63@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
